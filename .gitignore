@@ -1,0 +1,5 @@
+rest-api/node_modules/*
+rest-api/package-lock.json
+web-admin/dist/bundle/*
+web-admin/node_modules/*
+web-admin/package-lock.json
