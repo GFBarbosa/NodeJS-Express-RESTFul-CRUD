@@ -22,4 +22,4 @@ api.use('/produto', produtoRouter);
 
 api.listen(port);
 
-console.log('Run API');
+console.log('Running API!');
